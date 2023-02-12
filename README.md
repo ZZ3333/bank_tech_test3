@@ -1,6 +1,6 @@
 # Bank Teck Test
 
-# Installation setup
+## Installation setup
 
 clone this repo and install the dependencies:
 
@@ -11,11 +11,11 @@ npm install
 
 ```
 
-# Running Tests
+## Running Tests
 
 Please make sure you are in the right directory: `bank_tech_test3`
 
-# To see the full test output:
+## To see the full test output:
 
 ```
 npm test
