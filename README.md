@@ -19,3 +19,11 @@ Please make sure you are in the right directory: `bank_tech_test3`
 ```
 npm test
 ```
+
+### Bank Test Design Diagram
+
+```
+/design
+```
+
+<img src="design/bank_test_diagram.png">
